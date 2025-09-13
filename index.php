@@ -91,7 +91,7 @@ if ($result && mysqli_num_rows($result) > 0) {
                 <div class="carousel-item active">
                     <img class="w-100" src="img/movepic1.jpg" alt="Image">
                     <div class="carousel-caption">
-                        <h1 class="display-1 text-uppercase text-white mb-4 animated zoomIn">to Santa Rita College Library
+                        <h1 class="display-1 text-uppercase text-white mb-4 animated zoomIn">Welcome to Santa Rita College Library
                         </h1>
                         <a href="#" class="btn btn-primary py-3 px-4">Explore More</a>
                     </div>
